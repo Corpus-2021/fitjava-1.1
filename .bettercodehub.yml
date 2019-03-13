@@ -1,0 +1,20 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./doc/.*
+- ./examples/.*
+- ./examples/eg/.*
+- ./examples/eg/music/.*
+- ./examples/eg/net/.*
+- ./examples/input/.*
+- ./examples/input/AllPairs/.*
+- ./examples/input/AllPairs/function/.*
+- ./examples/input/AllPairs/magnitude/.*
+- ./examples/input/AllPairs/sign/.*
+- ./examples/input/files/.*
+- ./examples/output/.*
+- ./spec/.*
+- ./spec/fat/.*
+- ./spec/input/.*
+- ./spec/output/.*
